@@ -20,4 +20,4 @@ My passion for **technology** started at a young age, and I quickly became a sel
 | **Comando** | **Descripcion** |
 | ------- | ----------- |
 | cl | for clear the screen |
-| upgdsys | for upgrade && update the system |
+| alias upgdsys="sudo apt update && sudo apt upgrade" | for upgrade && update the system |
